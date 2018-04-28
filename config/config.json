@@ -1,0 +1,18 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "demo-dynamic-values-in-web-part-properties-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/demoDynamicValuesInWebPartProperties/DemoDynamicValuesInWebPartPropertiesWebPart.js",
+          "manifest": "./src/webparts/demoDynamicValuesInWebPartProperties/DemoDynamicValuesInWebPartPropertiesWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "DemoDynamicValuesInWebPartPropertiesWebPartStrings": "lib/webparts/demoDynamicValuesInWebPartProperties/loc/{locale}.js"
+  }
+}

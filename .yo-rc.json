@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.4.1",
+    "libraryName": "sp-fx-dynamic-values-in-web-part-properties",
+    "libraryId": "afe3cb0d-3da5-4470-99cf-30a31a7a0eeb",
+    "environment": "spo"
+  }
+}
