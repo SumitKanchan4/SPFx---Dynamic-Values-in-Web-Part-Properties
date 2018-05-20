@@ -16,5 +16,7 @@ For more understanding of the code visit my blog where I have explained every st
   - [SharePoint Framework (SPFx) Helper NPM Package](http://www.sharepointwidgets.com/2017/10/sharepoint-framework-helper.html) 
   
 Happy Coding
+
 Sumit Kanchan
+
 #SharePointWidgets #SPFx #SharePointFramework
